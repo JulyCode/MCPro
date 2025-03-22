@@ -21,6 +21,6 @@ The `verifier.py` file can then be run to check for topological correctness.
 
 ## References
 
-[1]:  J. Stahl and R. Grosso, "MCPro: A Procedural Method for Topologically Correct Isosurface Extraction based on Marching Cubes"
+[1]:  Stahl, J. and Grosso, R. (2025). MCPro: A Procedural Method for Topologically Correct Isosurface Extraction Based on Marching Cubes. In Proceedings of the 20th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - GRAPP; ISBN 978-989-758-728-3; ISSN 2184-4321, SciTePress, pages 331-338. DOI: 10.5220/0013309800003912
 
-[2]:  T. Etiene et al., "Topology Verification for Isosurface Extraction," in IEEE Transactions on Visualization and Computer Graphics, vol. 18, no. 6, pp. 952-965, June 2012, doi: 10.1109/TVCG.2011.109.
+[2]:  Etiene, T. et al. (2012). Topology Verification for Isosurface Extraction. In IEEE Transactions on Visualization and Computer Graphics, vol. 18, no. 6, pages 952-965. DOI: 10.1109/TVCG.2011.109
